@@ -29,8 +29,24 @@ Stack.prototype = {
     }
 };
 
+// 2021-03-13
+function MinStack() {
+    Stack.call(this);
+}
+
+MinStack.prototype = {
+    __proto__: Stack.prototype,
+
+    getMinimum: function() {
+        if (this.isEmpty()) return undefined;
+        return Math.min(...this.data);
+    }
+};
+
+MinStack.prototype.constructor = MinStack;
+
 function main() {
-    const stack = new Stack();
+    const stack = new MinStack();
 
     // push
     console.log(stack.bottom()); // => undefined
@@ -41,6 +57,14 @@ function main() {
     console.log(stack.bottom()); // => 0
     stack.pop();
     console.log(stack.top());    // => undefined
+
+    // getMinimum
+    console.log(stack.getMinimum()); // => undefined
+    stack.push(1);
+    stack.push(0);
+    console.log(stack.getMinimum()); // => 0
+    stack.pop();
+    console.log(stack.getMinimum()); // => 1
 }
 
 // main();
