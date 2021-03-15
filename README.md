@@ -6,6 +6,18 @@
 
 ## 日志
 
+### 2021-03-14
+
+**by 面试 ([Tencent](https://leetcode-cn.com/leetbook/detail/tencent/))**
+
+- [14] 最长公共前缀
+
+**by 主题 ([Queue & Stack](https://leetcode.com/explore/learn/card/queue-stack/))**
+
+- [0] Valid Parentheses
+- [0] Daily Temperatures
+- [0] Evaluate Reverse Polish Notation
+
 ### 2021-03-13
 
 **by 面试 ([Tencent](https://leetcode-cn.com/leetbook/detail/tencent/))**
