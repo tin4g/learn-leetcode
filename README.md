@@ -6,6 +6,20 @@
 
 ## 日志
 
+### 2021-03-17
+
+**by 面试 ([Tencent](https://leetcode-cn.com/leetbook/detail/tencent/))**
+
+- [20] 有效的括号
+
+**by 主题 ([Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/))**
+
+- [0] Max Consecutive Ones
+- [0] Find Numbers with Even Number of Digits
+- [0] Squares of a Sorted Array
+- [0] Duplicate Zeros
+- [0] Merge Sorted Array
+
 ### 2021-03-14
 
 **by 面试 ([Tencent](https://leetcode-cn.com/leetbook/detail/tencent/))**
