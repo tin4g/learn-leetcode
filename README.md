@@ -6,6 +6,19 @@
 
 ## 日志
 
+### 2021-03-18
+
+**by 面试 ([Tencent](https://leetcode-cn.com/leetbook/detail/tencent/))**
+
+- [344] 反转字符串
+
+**by 主题 ([Arrays 101](https://leetcode.com/explore/learn/card/fun-with-arrays/))**
+
+- [0] Remove Element
+- [0] Remove Duplicates from Sorted Array
+- [0] Check If N and Its Double Exist
+- [0] Valid Mountain Array
+
 ### 2021-03-17
 
 **by 面试 ([Tencent](https://leetcode-cn.com/leetbook/detail/tencent/))**
